@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [Linkedin](Linkedin)
 
-- 💬 Ask me about **C++, C#, Java, JavaScript & Pyaton**
+- 💬 Ask me about **C++, C#, Java, JavaScript & Python**
 
 - 📫 How to reach me **a.almardi@gmail.com**
 
