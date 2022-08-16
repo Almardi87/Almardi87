@@ -34,3 +34,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=almardi87&show_icons=true&locale=en" alt="almardi87" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=almardi87&" alt="almardi87" /></p>
+.
